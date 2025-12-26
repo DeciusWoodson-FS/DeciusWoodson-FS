@@ -1,4 +1,4 @@
-<h1 align="center">## Hi there, I'm Woodson Decius👋</h1>
+<h1 align="center">Hey there, I'm Woodson Decius👋</h1>
 <h2 align="center">Front-End web developer with experience in React.js, MongoDB, JavaScript and Node.js</h2>
 <h3 align="center">Full Sail Web Dev Student</h3>
 
