@@ -8,6 +8,8 @@
 - 👯 I’m looking to collaborate on Front-End and Full Stack Projects 
 - 🤔 I’m looking for help with Front-End Architecture and best coding practices
 
+--- 
+
 ### Strengths
 ![HTML](https://img.shields.io/badge/Semantic%20HTML5-E44D26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
